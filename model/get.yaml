@@ -1,0 +1,4 @@
+method: get
+url: https://example.com
+path: /posts/1
+
